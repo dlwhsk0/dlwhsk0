@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=212121&height=50&text=Hi%20there%20👋&fontColor=FAFAFA&fontSize=30&fontAlignY=60&descAlign=50&animation=fadeIn)
 
 <br><br><br>
@@ -42,7 +44,9 @@
 
 ## Top Languages 🪄
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwhsk0&langs_count=8&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwhsk0&langs_count=8&layout=compact&theme=ambient_gradient)
+<img src="https://github-readme-stats.vercel.app/api?username=dlwhsk0&show_icons=true&theme=ambient_gradient"/>
+  
 
 <br><br><br>
 
