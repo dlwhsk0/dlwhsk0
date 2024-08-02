@@ -4,7 +4,8 @@
 
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=70&pause=1000&color=000000&center=true&vCenter=true&width=900&height=80&lines=Hello+World!)](https://git.io/typing-svg)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello+World!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
 
 <br><br><br><br><br>
 
