@@ -8,6 +8,14 @@
 
 <br><br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dlwhsk0"
+  width="600"
+  height="300"
+/>
+</a>
+
 <br><br><br>
 
 ## Tech Stack 🎓
