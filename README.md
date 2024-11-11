@@ -86,6 +86,14 @@
 
 <br><br>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dlwhsk0?pet-id=643789463123665527"
+    width="600"
+    height="120"
+  />
+</a>
 <img src="https://github.com/dlwhsk0/dlwhsk0/blob/output/github-contribution-grid-snake.svg"/>
 
 <br><br><br>
