@@ -6,6 +6,15 @@
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello+World!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+<br><br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dlwhsk0"
+  width="600"
+  height="300"
+/>
+</a>
 
 <br><br><br>
 
@@ -78,16 +87,6 @@
 <br><br>
 
 <img src="https://github.com/dlwhsk0/dlwhsk0/blob/output/github-contribution-grid-snake.svg"/>
-
-<br><br>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/dlwhsk0"
-  width="600"
-  height="300"
-/>
-</a>
 
 <br><br><br>
 
