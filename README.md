@@ -1,9 +1,51 @@
-<div align="center">
+## Backend Developer
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=212121&height=50&text=Hi%20there%20👋&fontColor=FAFAFA&fontSize=30&fontAlignY=60&descAlign=50&animation=fadeIn)
+<br/>
 
-<br><br>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dlwhsk0?pet-id=681747659606736439"
+    width="800"
+    height="150"
+  />
+</a>
+  
+#### 🤖 Backend
 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+
+#### 🤡 Frontend
+
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+#### 🤙 Contact
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@hana-dev)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF)](https://velog.io/@dlwhsk0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/하나-조-b5b6782b6/)
+
+<!--
+#### 📚 Posts
+
+- [모두가 행복했던 그날의 비하인드 : 데이터베이스 - 트랜잭션 = ?](https://medium.com/team-joon/techeervent-%ED%9A%8C%EA%B3%A0%EB%A1%9D-90644dec8cf9)
+
+<img src="https://github.com/dlwhsk0/dlwhsk0/blob/output/github-contribution-grid-snake.svg"/>
+-->
+
+<br/>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana2030)](https://solved.ac/hana2030)
+
+<!--
+https://github.com/maxam2017/productive-box
+
+주석
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dlwhsk0"
@@ -11,8 +53,6 @@
   height="300"
 />
 </a>
-
-<br><br><br>
 
 ## Tech Stack 🎓
 
@@ -48,6 +88,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br><br>
+
 
 ## Collaboration Tools 🛠️
 
@@ -99,7 +140,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=dlwhsk0&theme=dark)](https://git.io/streak-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/hana2030)
