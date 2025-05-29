@@ -1,4 +1,4 @@
-## Backend Developer 😎
+## Hi, I'm a Backend Developer. 😎
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@hana-dev)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF)](https://velog.io/@dlwhsk0)
