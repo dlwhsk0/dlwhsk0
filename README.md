@@ -34,6 +34,6 @@
 <img src="https://github.com/dlwhsk0/dlwhsk0/blob/output/github-contribution-grid-snake.svg"/>
 -->
 
-<br/>
-
+<!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hana2030)](https://solved.ac/hana2030)
+-->
