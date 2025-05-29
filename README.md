@@ -1,5 +1,9 @@
 ## Backend Developer 😎
 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@hana-dev)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF)](https://velog.io/@dlwhsk0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/하나-조-b5b6782b6/)
+
 <br/>
 
 <a href="https://github.com/devxb/gitanimals">
@@ -22,13 +26,6 @@
 
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-#### 🤙 Contact
-
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@hana-dev)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF)](https://velog.io/@dlwhsk0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/하나-조-b5b6782b6/)
 
 <!--
 #### 📚 Posts
